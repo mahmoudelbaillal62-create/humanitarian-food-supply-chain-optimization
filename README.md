@@ -67,6 +67,8 @@ Five optimal distribution centers were selected from 23 candidate demand points.
 | Only Tindouf Central Warehouse | 357.0 M |
 | Demand +50% | 533.4 M |
 
+![Scenario Analysis](maps/Scenario_Analysis.png)
+
 ## Repository Structure
 
 ```text
