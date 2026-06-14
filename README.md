@@ -131,5 +131,7 @@ Yildiz Technical University
 ## Connect
 
 LinkedIn:
-www.linkedin.com/in/mahmoud-el-baillal
+https://www.linkedin.com/in/mahmoud-el-baillal
 
+GitHub:
+https://github.com/mahmoudelbaillal62-create
