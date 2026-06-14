@@ -59,6 +59,8 @@ Five optimal distribution centers were selected from 23 candidate demand points.
 
 ### Scenario Analysis
 
+![Scenario Analysis](maps/Scenario_Analysis.png)
+
 | Scenario | Total System Cost (DZD) |
 |----------|------------------------:|
 | Current Network | 355.6 M |
@@ -66,8 +68,6 @@ Five optimal distribution centers were selected from 23 candidate demand points.
 | No Tindouf Market | 391.6 M |
 | Only Tindouf Central Warehouse | 357.0 M |
 | Demand +50% | 533.4 M |
-
-![Scenario Analysis](maps/Scenario_Analysis.png)
 
 ## Repository Structure
 
