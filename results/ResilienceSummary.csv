@@ -1,0 +1,6 @@
+scenario,total_purchase_cost,total_transport_cost,total_system_cost
+Scenario A: Current network,302064000,53507309.89,355571309.9
+Scenario B: No Algiers market,404488000,4280908.504,408768908.5
+Scenario C: No Tindouf market,339730000,51833464.77,391563464.8
+Scenario D: Only Tindouf Central Warehouse,302064000,54967832.28,357031832.3
+Scenario E: Demand +50%,453096000,80260964.84,533356964.9

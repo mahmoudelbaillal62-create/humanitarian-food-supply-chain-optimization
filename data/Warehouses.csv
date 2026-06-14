@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,latitude,longitude,capacity_tons,fixed_cost_month
+1,Tindouf Central Warehouse,27.68,-8.13,5000,2000000
+2,Laayoune Regional Warehouse,27.74,-8.01,2000,1000000
+3,Smara Regional Warehouse,27.49,-7.83,2500,1200000
+4,Dakhla Regional Warehouse,26.83,-6.87,1500,900000
