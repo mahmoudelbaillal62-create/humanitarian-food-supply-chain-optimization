@@ -129,5 +129,6 @@ Yildiz Technical University
 
 ## Connect
 
-LinkedIn:
-www.linkedin.com/in/mahmoud-el-baillal-0b4a103a8
+## LinkedIn:
+www.linkedin.com/in/mahmoud-el-baillal
+
