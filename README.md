@@ -127,8 +127,7 @@ Yildiz Technical University
 - Humanitarian emergency response scenarios
 - Real-time GIS integration
 
-## Connect
-
 ## LinkedIn:
 www.linkedin.com/in/mahmoud-el-baillal
 
+## Connect
