@@ -121,6 +121,11 @@ Yildiz Technical University
 
 ## Future Improvements
 
+## Connect
+
+LinkedIn:
+www.linkedin.com/in/mahmoud-el-baillal-0b4a103a8
+
 - Multi-period inventory optimization
 - Vehicle routing optimization
 - Stochastic demand modeling
