@@ -1,0 +1,31 @@
+camp_id,camp_name,commodity,ration_kg_per_person_month,population,demand_kg_month,demand_ton_month
+1,Laayoune,Wheat flour,8,50500,404000,404
+1,Laayoune,Rice,2,50500,101000,101
+1,Laayoune,Lentils,2,50500,101000,101
+1,Laayoune,Barley,1,50500,50500,50.5
+1,Laayoune,Sugar,0.75,50500,37875,37.875
+1,Laayoune,Oil,0.46,50500,23230,23.23
+3,Aouserd,Wheat flour,8,36600,292800,292.8
+3,Aouserd,Rice,2,36600,73200,73.2
+3,Aouserd,Lentils,2,36600,73200,73.2
+3,Aouserd,Barley,1,36600,36600,36.6
+3,Aouserd,Sugar,0.75,36600,27450,27.45
+3,Aouserd,Oil,0.46,36600,16836,16.836
+4,Boujdour,Wheat flour,8,16400,131200,131.2
+4,Boujdour,Rice,2,16400,32800,32.8
+4,Boujdour,Lentils,2,16400,32800,32.8
+4,Boujdour,Barley,1,16400,16400,16.4
+4,Boujdour,Sugar,0.75,16400,12300,12.3
+4,Boujdour,Oil,0.46,16400,7544,7.544
+5,Dakhla,Wheat flour,8,19400,155200,155.2
+5,Dakhla,Rice,2,19400,38800,38.8
+5,Dakhla,Lentils,2,19400,38800,38.8
+5,Dakhla,Barley,1,19400,19400,19.4
+5,Dakhla,Sugar,0.75,19400,14550,14.55
+5,Dakhla,Oil,0.46,19400,8924,8.924
+2,Smara,Wheat flour,8,50700,405600,405.6
+2,Smara,Rice,2,50700,101400,101.4
+2,Smara,Lentils,2,50700,101400,101.4
+2,Smara,Barley,1,50700,50700,50.7
+2,Smara,Sugar,0.75,50700,38025,38.025
+2,Smara,Oil,0.46,50700,23322,23.322
